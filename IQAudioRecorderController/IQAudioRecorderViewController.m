@@ -22,12 +22,12 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
+@import SCSiriWaveformView;
 
 #import "IQAudioRecorderViewController.h"
 #import "NSString+IQTimeIntervalFormatter.h"
 #import "IQPlaybackDurationView.h"
 #import "IQMessageDisplayView.h"
-#import "SCSiriWaveformView.h"
 #import "IQAudioCropperViewController.h"
 
 #import <AVFoundation/AVFoundation.h>
